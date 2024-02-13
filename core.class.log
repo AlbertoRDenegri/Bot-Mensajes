@@ -1,0 +1,300 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: '65B5318375A067E5AE4DBF7683ABA038',
+    participant: undefined
+  },
+  messageTimestamp: 1704916884,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5212291242990'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0f31f58-9d28-47d7-bca5-aa62a2935731',
+  keyword: 'key_d395fa96-f9de-4017-b5f2-b5b932b74f1f',
+  answer: '🙌 Hola buen día',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7fc006567220eb701c150a14a9ad3d37'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e8244671-8793-4408-865d-5b7d2fada706',
+  keyword: 'ans_a0f31f58-9d28-47d7-bca5-aa62a2935731',
+  answer: 'Estimado cliente, por el momento me encuentro fuera de la oficina. \n' +
+    '                                                                   \n' +
+    'En cuanto me sea posible, me pongo en contacto con usted. ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8497ba85afcb4b3e282a5598479860f4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: '64D0B18215E3BD285975FA24D88AEF27',
+    participant: undefined
+  },
+  messageTimestamp: 1704916901,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '5212291242990'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4abb77c2-f7bc-4c82-abdd-7172fbcf5c2d',
+  keyword: 'key_a6752637-0c51-4ef2-91c4-9dcec87e5f0a',
+  answer: 'Que tenga un excelente día ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11599ecf7955c1cc53966575d0b76031'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: 'F224DCD2C2AC84D61442C6D34DC155CA',
+    participant: undefined
+  },
+  messageTimestamp: 1704916915,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Creo que sí se ve mejor todo seguido',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Creo que sí se ve mejor todo seguido',
+  from: '5212291242990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7372FAAF8A6064DE281022A87031BE7',
+    participant: undefined
+  },
+  messageTimestamp: 1704916916,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajaja',
+  from: '5212291242990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE3E8AFE7AA5AF1ECDB254666575D06B',
+    participant: undefined
+  },
+  messageTimestamp: 1704916944,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    conversation: 'No lo creo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No lo creo',
+  from: '5212291242990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: 'BEAAF3A866917D3B92D89C48BB6F95FC',
+    participant: undefined
+  },
+  messageTimestamp: 1704916957,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Con todo respeto csm',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Con todo respeto csm',
+  from: '5212291242990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: '918407ADF118BF08D48F7E2C0DAF9A51',
+    participant: undefined
+  },
+  messageTimestamp: 1704917348,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/19650860_2477410785769675_4787505555994017586_n.enc?ccb=11-4&oh=01_AdRkoEpRKfFFhx7Iuid_5woyGfKtJRwZGNlLpCV26G6hIQ&oe=65C67BCD&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/19650860_2477410785769675_4787505555994017586_n.enc?ccb=11-4&oh=01_AdRkoEpRKfFFhx7Iuid_5woyGfKtJRwZGNlLpCV26G6hIQ&oe=65C67BCD&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 8092,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__dcc61269-f08b-4dfc-ab67-89fd2ba8621a',
+  from: '5212291242990'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: 'A6AD1196C6F0AA0AA8FD33219EBA856B',
+    participant: undefined
+  },
+  messageTimestamp: 1704917531,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5212291242990'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0f31f58-9d28-47d7-bca5-aa62a2935731',
+  keyword: 'key_d395fa96-f9de-4017-b5f2-b5b932b74f1f',
+  answer: '🙌 Hola buen día',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7fc006567220eb701c150a14a9ad3d37'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e8244671-8793-4408-865d-5b7d2fada706',
+  keyword: 'ans_a0f31f58-9d28-47d7-bca5-aa62a2935731',
+  answer: 'Estimado cliente, por el momento me encuentro fuera de la oficina. \n' +
+    '                                                                   \n' +
+    'En cuanto me sea posible, me pongo en contacto con usted. ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8497ba85afcb4b3e282a5598479860f4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212291242990@s.whatsapp.net',
+    fromMe: false,
+    id: '979C735B886C161DBE77AD7070BAB6FE',
+    participant: undefined
+  },
+  messageTimestamp: 1704917540,
+  pushName: 'Paola Mesa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok',
+  from: '5212291242990'
+}
